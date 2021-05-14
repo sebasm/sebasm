@@ -4,15 +4,16 @@
 
 #### I feel really comfortable with:
 
-<a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> Java </a>
-<a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> Python </a>
-<a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="40" height="40"/> Kotlin </a>
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/></a>
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="50" height="50"/></a>
 
 
 #### And know a little bit of:
 
-Go
-JS
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" alt="Java" width="50" height="50"/></a>
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50"/></a>
+<a target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Java" width="50" height="50"/></a>
 
 #### This are the tools/framweorks that I'm most familiar with:
 
